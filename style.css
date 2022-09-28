@@ -1,5 +1,5 @@
 body {
-   background-image: linear-gradient(to right, #ff512f, #f09819);
+   background-image: linear-gradient(to right, #190d74, #c419f0);
    background-repeat:round;
    margin: 0;
    padding: 0;
@@ -8,6 +8,13 @@ body {
 }
 html {
    margin: 0 0 100px;
+}
+a {
+   color: white;
+   text-decoration:none;
+}
+a:hover{
+   text-decoration: underline;
 }
 
 svg{
